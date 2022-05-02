@@ -7,6 +7,10 @@
 - Readme 줄바꿈 방법
   1) 라인의 마지막에 공백 두 칸 입력
   2) 문단을 구분하려면 엔터 두 번
+- REadme 표 작성법
+![image](https://user-images.githubusercontent.com/77192299/166233392-3a6b87ba-229c-4704-82e5-7e4b0a79fda1.png)
+
+출처: https://inasie.github.io/it%EC%9D%BC%EB%B0%98/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%ED%91%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0/
 
 ## 2022-05-01
 친구의 깃허브 프로필을 참고하여 이것저것 손보기 시작
