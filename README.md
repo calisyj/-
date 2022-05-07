@@ -4,6 +4,9 @@
 ### 2022-04-30(깃허브 시작) ~ 
 
 ## 2022-05-07
+- 깃허브에서 commit 커밋이란
+ ![image](https://user-images.githubusercontent.com/77192299/167232750-b6f5f52c-0d47-4d35-bf6e-10ed58dc0583.png)
+
 - 깃허브에 로컬 폴더 연결하기(reference: https://kim-dragon.tistory.com/122)
 - 깃허브 access token 발급하기(reference: https://kim-dragon.tistory.com/122)
 -> 스터디한 내용과 코드를 깃허브 온라인 저장소에 업로드하기 위해 깃을 사용하며 커밋 하는 과정에서 아이디와 패스워드를 입력하는 과정에서 에러가 났었고, 에러의 이유는 Github에서 ID/PW기반의 Basic Authentication 인증을 금지하고, ID/Personal Access Token 방식의 Token Authentication 인증을 사용하도록 변경하였기 때문이다. (2021년8월13일 이후로 패스워드 인증 방식에서 토큰 방식으로 변경)
