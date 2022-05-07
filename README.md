@@ -4,6 +4,7 @@
 ### 2022-04-30(깃허브 시작) ~ 
 
 ## 2022-05-07
+- self-algorithm-study Readme 규칙 생성 (reference: https://github.com/hs-study-group/algorithm)
 - 깃허브에서 commit 커밋이란
  ![image](https://user-images.githubusercontent.com/77192299/167232750-b6f5f52c-0d47-4d35-bf6e-10ed58dc0583.png)
 
