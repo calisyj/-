@@ -4,10 +4,10 @@
 ### 2022-04-30(깃허브 시작) ~ 
 
 ## 2022-05-23
-밑의 git command자료의 11번 수정. (git pull main -> git pull origin main)
-add, commit, pr merge, branch삭제 이후 변경사항을 git으로 받아오는 과정에서의 오류를 없엘 수 있게 됨.
-git-command
-Github를 통한 협업에 있어 실수를 줄이기 위한 git command 공부 기록 공간
+밑의 git command자료의 11번 수정. (git pull main -> git pull origin main)  
+add, commit, pr merge, branch삭제 이후 변경사항을 git으로 받아오는 과정에서의 오류를 없엘 수 있게 됨.  
+git-command  
+Github를 통한 협업에 있어 실수를 줄이기 위한 git command 공부 기록 공간  
 
 Organization repository commit 작업 git 명령어 순서 
 reference: https://github.com/inseonyun
