@@ -3,6 +3,29 @@
 
 ### 2022-04-30(깃허브 시작) ~ 
 
+## 2022-05-23
+밑의 git command자료의 11번 수정. (git pull main -> git pull origin main)
+add, commit, pr merge, branch삭제 이후 변경사항을 git으로 받아오는 과정에서의 오류를 없엘 수 있게 됨.
+# git-command
+Github를 통한 협업에 있어 실수를 줄이기 위한 git command 공부 기록 공간
+
+## Organization repository commit 작업 git 명령어 순서 
+reference: https://github.com/inseonyun
+1. git checkout main -> main 브렌치로 switch
+2. git pull -> main 브렌치의 변경사항 내려받음 
+3. git checkout -b 본인깃허브닉네임(소문자)
+4. 소스 코드 파일 구조에 맞게 생성 (ex. BOJ폴더 생성 -> 생성된 폴더 안에 Stack폴더 생성 -> 그 안에 본인 id폴더 생성
+-> 그 안에 문제 이름(ex. balloons) 폴더 생성)
+5. git add .
+6. git commit -m "양식내용" 양식에 맞게 잘하면 됨
+7. git push origin 본인깃허브닉네임(소문자)
+8. Pull request 생성
+->repository하려는 github 페이지 상단에 뜬 Compare& pull request 클릭 후 양식 rule에 맞춰 PR 생성
+9. merge 진행하고 delete 브렌치 수행
+10. git checkout main
+11. git pull origin main
+12. git branch -d 본인깃허브닉네임(소문자)
+
 ## 2022-05-07
 - 깃허브 마크다운 아이콘 코드 사용 (reference: https://gist.github.com/rxaviers/7360908)
 - self-algorithm-study Readme 규칙 생성 (reference: https://github.com/hs-study-group/algorithm)
